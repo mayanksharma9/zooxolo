@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881473244350",
+    "project_id": "zooxolo-9a37b",
+    "storage_bucket": "zooxolo-9a37b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881473244350:android:3a8f906d029bc4eec562ef",
+        "android_client_info": {
+          "package_name": "com.blanclabs.zooxolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881473244350-gcm5aklbqs05s8tuiu5pfpe51uleo7gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClAkJPEMnJUHGE8p6YpfdiowAUEgevqzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881473244350-gcm5aklbqs05s8tuiu5pfpe51uleo7gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
